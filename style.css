@@ -1,0 +1,20 @@
+/* reset css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:100px;
+}
+.canva1{
+    background:lightcyan;
+    /* margin-top: 100px; */
+}
+h1{
+    margin: 20px;
+}
